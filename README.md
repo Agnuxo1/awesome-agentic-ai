@@ -10,6 +10,10 @@
 
 Welcome to the most comprehensive resource for **Agentic AI** - the cutting-edge field where AI systems can act autonomously, make decisions, and collaborate with other agents to solve complex problems. Whether you're a beginner taking your first steps or an expert pushing the boundaries, this repository has everything you need.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/yadavanujkumar/awesome-agentic-ai">upstream project</a>’s learning paths, framework comparisons and example agent workflows. The structured progression helps readers choose an appropriate starting point and reuse established orchestration patterns instead of assembling a stack through unrelated searches. Benefits concern learning and implementation effort; any runtime or task-quality advantage must be measured in the chosen application.</sub>
+<!-- impact-note:end -->
+
 ## 🌟 What is Agentic AI?
 
 **Agentic AI** refers to artificial intelligence systems that can:
